@@ -2,6 +2,10 @@
  * This file is provided by the webext-support repository at
  * https://github.com/thunderbird/webext-support
  *
+ * Version 1.7
+ * - fix missing tracker reference (contributed by @mlazdans)
+ *   https://github.com/thunderbird/webext-support/pull/77
+ * 
  * Version 1.6
  * - registerChromeUrl() is now async, to be able to properly await registration
  *
